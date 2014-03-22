@@ -1,3 +1,9 @@
+/*
+   Author: Pulkit Yadav
+   
+   A visual solution to the the "Towers of Hanoi" puzzle.
+*/
+
 #include<ncurses.h>
 #include<stdlib.h>
 
